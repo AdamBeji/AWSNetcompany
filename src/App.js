@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Adam Beji's AWS Deployment</p>
+        <br></br>
+        <br></br>
+        <br></br>
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
